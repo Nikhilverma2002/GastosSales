@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gastos_sales_final</string>
+    <string name="revenue_this_week">Revenue this week</string>
+    <string name="registrations_this_week">Registrations this week</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account">Account</string>
+    <string name="transaction">Transaction</string>
+    <string name="home">Home</string>
+    <string name="targets">Targets</string>
+</resources>
